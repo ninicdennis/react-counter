@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
+
+This is a little counter made in React. I am using state management in order to increase or decrease the this.state.counter
+and having an if statement in the decrease to make sure I do not hit negative numbers. 
 
 ## Available Scripts
 
